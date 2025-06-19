@@ -1,2 +1,3 @@
 # Clinic_System
-Web application about clinic system using html, css , tailwind css, bootstrap, javascript, php, and mysql
+A web application for handling appointments, patient records, and staff administration using html, CSS, 
+JavaScript, Tailwind CSS, PHP, MySQL. 
